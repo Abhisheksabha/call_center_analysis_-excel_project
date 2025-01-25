@@ -1,5 +1,7 @@
 # Call Center Yearly Data Analysis using Excel
 
+![](Call_center_analysis_excel_dashboard.png)
+
 ## Overview 
 This project involved analyzing yearly call center data to extract actionable insights, identify trends, and visualize key performance metrics. The primary deliverable was a dynamic, interactive dashboard created in Excel, offering stakeholders a comprehensive view of call center operations and customer behavior.
 
