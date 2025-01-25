@@ -13,10 +13,6 @@ This project involved analyzing yearly call center data to extract actionable in
 - Analyze customer purchase behaviors to identify revenue opportunities.
 - Enhance customer satisfaction by analyzing feedback and trends.
 
-## Dataset
-
-[Call_Center_Dataset](Call Center Data Analysis.xlsx)
-
 ## Tools and Techniques used
 
 - **Excel Power Tools:** Power Pivot, Slicers, Pivot Charts
